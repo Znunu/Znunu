@@ -1,3 +1,3 @@
 ### Hi there 
 
-![Astolfo holding a flag](https://i.imgur.com/XPhbzoG.png "Astolfo")
+![](https://i.imgur.com/81bWWsS.jpg)
