@@ -8,14 +8,14 @@
 - Java
 
 # Web Dev
-- CSS
-- HTML
-- JavaScript
-- PHP
 - Python
+- HTML
+- CSS
+- PHP
+- SQL
+- JS
 
 # Other
-- SQL
 - Visual Basic
 - Regex
 - RenPy
