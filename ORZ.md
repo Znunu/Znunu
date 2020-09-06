@@ -2,7 +2,7 @@
 
 [cloud.orz.cx](http://cloud.orz.cx) cloud storage
 
-[git.orz.cx](http://git.orz.cx) github pages
+[git.orz.cx](https://git.orz.cx) github pages
 
 [orz.cx:81](http://orz.cx:81) line API
 
