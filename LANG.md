@@ -1,6 +1,7 @@
 # Discord Bots
 - JavaScript
 - Python
+- Java
 - C++
 
 # GUI's
