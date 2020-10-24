@@ -1,6 +1,4 @@
 ## Hey there 
-<br>
-
 
 ![](https://i.imgur.com/fVc2hOY.jpg)
 
