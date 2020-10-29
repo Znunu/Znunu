@@ -1,7 +1,6 @@
 ## Hey there <img align="right" src="https://i.imgur.com/ICxV1S8.png">
 Nanami says hi! :)
 
-![](https://i.imgur.com/ICxV1S8.png)
 
 [Astolfo](https://i.imgur.com/XPhbzoG.png) <br>
 [Kay & Dar](https://i.imgur.com/Vu1kb3f.png) <br>
