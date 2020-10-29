@@ -1,8 +1,10 @@
-## Hey there 
+## Hey there <img align="right" src="https://i.imgur.com/ICxV1S8.png">
+Nanami says hi! :)
 
-![](https://i.imgur.com/fVc2hOY.jpg)
+![](https://i.imgur.com/ICxV1S8.png)
 
 [Astolfo](https://i.imgur.com/XPhbzoG.png) <br>
 [Kay & Dar](https://i.imgur.com/Vu1kb3f.png) <br>
 [Tree](https://i.imgur.com/fVc2hOY.jpg) <br>
-[Desktop](https://i.imgur.com/SSj0rjx.png)
+[Desktop](https://i.imgur.com/SSj0rjx.png) <br>
+[Nanami](https://i.imgur.com/ICxV1S8.png)
