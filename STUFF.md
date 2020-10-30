@@ -4,3 +4,4 @@
 [The University of Costumed Heroes](https://www.youtube.com/watch?v=5_QfQKmV1pM)  </br>
 [?????????](https://www.youtube.com/watch?v=-puH7dgNGZI) </br>
 [DigitalDIY](https://digitaldiy.jp/nanami_graduation/) </br>
+[lolUbuntu](https://www.quora.com/What-is-meant-by-btw-I-use-arch)
