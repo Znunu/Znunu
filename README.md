@@ -1,5 +1,4 @@
-## Hey there <img align="right" src="https://i.imgur.com/AHzEKW7.jpg">
-Nanami says hi! :)
+## Hey there! <br> <br> <img align="right" src="https://i.imgur.com/AHzEKW7.jpg">
 
 
 [Astolfo](https://i.imgur.com/XPhbzoG.png) <br>
