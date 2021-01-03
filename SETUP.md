@@ -4,7 +4,7 @@
 - TX50E
 - NR6000
 - B450 Pro4
-- 2x16gb 1.8Ghz
+- DDR4 2x16gb 1.8Ghz
 - Too many fans
 - Heaps of storage
 
