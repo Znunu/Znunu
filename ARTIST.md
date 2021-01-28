@@ -20,10 +20,14 @@
 
 [Neco](https://www.pixiv.net/en/users/777703)
 
+[Qosic](https://www.artstation.com/qosic)
+
 </br>
 
 [QYS3](https://www.pixiv.net/en/users/7210261)
 
 [???](https://www.pixiv.net/en/users/125057)
+
+[???](https://www.pixiv.net/en/users/31699812)
 
 [kiriko](https://www.pixiv.net/en/users/14046928/)
