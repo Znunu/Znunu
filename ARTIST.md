@@ -1,3 +1,5 @@
+[KOH](https://www.pixiv.net/en/users/1336451)
+
 [Yurika-R](https://www.pixiv.net/en/users/15131268)
 
 [AOI](https://www.pixiv.net/en/users/52472)
@@ -15,6 +17,8 @@
 [shion](https://www.pixiv.net/en/users/14707888)
 
 [Stålenhaag](https://www.simonstalenhag.se/)
+
+[Neco](https://www.pixiv.net/en/users/777703)
 
 </br>
 
