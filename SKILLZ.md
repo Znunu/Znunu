@@ -39,6 +39,12 @@ Who is Znunu? What can they do? What did get for their time credits?
 - Fluent Danish
 - Fluent Serbian
 
+## Future
+- Machine Learning
+- Cybersecurity
+- Driving
+- University
+
 # By Time
 - Math: Expert
 - Programming: Expert
