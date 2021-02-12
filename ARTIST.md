@@ -22,6 +22,8 @@
 
 [Qosic](https://www.artstation.com/qosic)
 
+[Wayne Chan](https://www.artstation.com/waynechan)
+
 </br>
 
 [QYS3](https://www.pixiv.net/en/users/7210261)
