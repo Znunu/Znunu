@@ -30,6 +30,8 @@
 
 [_LM_7](https://www.pixiv.net/en/users/420928)
 
+[Vectorek](https://www.pixiv.net/en/artworks/88621206)
+
 </br>
 
 [QYS3](https://www.pixiv.net/en/users/7210261)
