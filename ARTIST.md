@@ -38,10 +38,8 @@
 
 [QYS3](https://www.pixiv.net/en/users/7210261)
 
-[???](https://www.pixiv.net/en/users/125057)
+[yukataro](https://www.pixiv.net/en/users/125057)
 
-[???](https://www.pixiv.net/en/users/31699812)
-
-[???](https://www.pixiv.net/en/users/31699812/illustrations)
+[singlecask](https://www.pixiv.net/en/users/31699812)
 
 [kiriko](https://www.pixiv.net/en/users/14046928/)
