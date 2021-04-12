@@ -30,7 +30,7 @@
 
 [_LM_7](https://www.pixiv.net/en/users/420928)
 
-[Vectorek](https://www.pixiv.net/en/artworks/88621206)
+[Vectorek](https://www.pixiv.net/en/users/9964731)
 
 [tomuneko](https://www.pixiv.net/en/users/1368840)
 
