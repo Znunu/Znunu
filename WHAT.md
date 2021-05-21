@@ -12,6 +12,8 @@
 
 [RIP](https://www.reddit.com/r/leftyincel/comments/m5eikq/incelwithouthate_banned/)
 
+[Double Standards](https://nymag.com/intelligencer/2018/08/sarah-jeong-new-york-times-anti-white-racism.html)
+
 [.](https://www.reddit.com/r/ProMaleCollective/)
 
 [.](https://www.reddit.com/r/antifeminists/)
