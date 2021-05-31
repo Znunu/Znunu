@@ -30,7 +30,7 @@
 ## Misc
 - [Marketing](https://github.com/Znunu/Znunu/blob/master/data/minerva.png)
 - [Product Development](https://github.com/Znunu/Znunu/blob/master/data/produkt.png)
-- [Drawing](https://github.com/Znunu/Znunu/blob/master/mina5.png)
+- [Drawing](https://orz.cx/vimvim)
 
 ## Language
 - Fluent English
