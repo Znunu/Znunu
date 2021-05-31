@@ -1,5 +1,3 @@
-Who is Znunu? What can they do? What did get for their time credits?
-
 # By Demo
 
 ## Math
@@ -46,9 +44,9 @@ Who is Znunu? What can they do? What did get for their time credits?
 - University
 
 # By Time
-- Math: Expert
-- Programming: Expert
-- Physics: Expert
+- Math: Ex
+- Programming: Ex
+- Physics: Ex
 - Chemistry: 300h course
 - Robotics: 300h course
 - Product Development: 300h course
@@ -57,5 +55,4 @@ Who is Znunu? What can they do? What did get for their time credits?
 - Drawing: Apprentice of Boxy
 
 # Brief
-I feel most at home in either a math engine, spreadsheet or IDE. If you need to break something apart into numbers and data, then I'm your man.
-Product development and marketing is also my strong side. My dream job is either in a classroom or on the frontiers of science. 
+I feel most at home in either a math engine, spreadsheet or IDE. I enjoy product development and marketing as well. My dream job is either in a classroom, on the frontiers of science or reverse engineering games. 
