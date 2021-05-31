@@ -37,12 +37,6 @@
 - Fluent Danish
 - Fluent Serbian
 
-## Future
-- Machine Learning
-- Cybersecurity
-- Driving
-- University
-
 # By Time
 - Math: Ex
 - Programming: Ex
@@ -55,4 +49,4 @@
 - Drawing: Apprentice of Boxy
 
 # Brief
-I feel most at home in either a math engine, spreadsheet or IDE. I enjoy product development and marketing as well. My dream job is either in a classroom, on the frontiers of science or reverse engineering games. 
+I feel most at home in either a math engine, spreadsheet or IDE. I enjoy product development and marketing as well. My dream job is either in a classroom, on the frontiers of science, cybersecurity or reverse engineering games. 
