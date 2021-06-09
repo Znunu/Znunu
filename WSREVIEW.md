@@ -78,7 +78,7 @@ For some reason they decided to have a lot of the cards reuse virtually the same
 
 
 One of the reasons I decided on this set is because of the title: "Arrival! Reinforcement Fleets from Europe!".
-As a european nationalist(?), I thought "great, some sexy european ships".
+I live in europe, I thought "great, some sexy european ships".
 I couldn't be more wrong.
 Roughly... one fifth of the ships are actually from europe.
 The rest are from Japan.
