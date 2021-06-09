@@ -65,6 +65,8 @@ After just a single display I ended up with a bunch of duplicates.
 
 ![](https://cloud.orz.cx/public/weiss/dupes.png)
 
+![](https://cloud.orz.cx/public/weiss/dupesaaaaaa.png)
+
 When opening the last few boosters I was lucky to get more than 1-2 new cards from the 8 cards in each.
 Here's another pair of duplicates..... or are they?
 
