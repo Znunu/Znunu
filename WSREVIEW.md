@@ -130,7 +130,7 @@ Okay?
 
 The one above brings up another issue.
 Half the ships don't use "me" but refer to themselves by name.
-I get that this can be cute, but in this case, it just makes it seem like they all came straight from a preschool.
+I get that this can be cute, but in this case, it's just dumb and poorly done.
 Like, seriously, a lot of them speak like this, even those with art that suggests anything else.
 
 ![](https://cloud.orz.cx/public/weiss/text/2.png)
