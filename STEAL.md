@@ -31,3 +31,39 @@ The image is set as the CSS background of an element
 - Choose "Open in new tab" from the image url context menu
 
 ![](https://cloud.orz.cx/pub/steal/cssbg.png)
+
+## Canvas Image
+### Objective
+Download [Pikasonic's avatar](https://soundcloud.com/pika5onic)
+
+## SVG Image
+### Objective
+Download an image of [this car](https://lottiefiles.com/64152-car-animation)
+
+### Problem
+The image is svg embedded into the page source
+
+### Solution
+- Locate the svg element
+- Pass it to "download_svg"
+
+```js
+
+function download_svg(svg) {
+    svgURL = new XMLSerializer().serializeToString(svg);
+    download('data:image/svg+xml; charset=utf8, ' + encodeURIComponent(svgURL), 'image.svg')
+}
+
+function download(file, filename) {
+    var a = document.createElement("a");
+    element.style.display = "none";
+    a.download = filename;
+    a.href = file;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(element);
+}
+```
+
+
+
