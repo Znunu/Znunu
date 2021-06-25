@@ -36,13 +36,11 @@ The image is set as the CSS background of an element
 ### Objective
 Download a frame of [QYS3's animation](https://www.pixiv.net/en/artworks/71093875)
 
-
 ### Problem
 The image is rendered by a canvas
 
-
 ### Solution
-- Locate the svg element
+- Locate the canvas element
 - Pass it to "download_canvas_frame"
 
 ```js
@@ -71,11 +69,41 @@ The image is svg embedded into the page source
 //Include function download(file, filename)
 
 function download_svg_frame(svg) {
-    svgURL = new XMLSerializer().serializeToString(svg);
-    download('data:image/svg+xml; charset=utf8, ' + encodeURIComponent(svgURL), 'image.svg')
+    var svgURL = new XMLSerializer().serializeToString(svg);
+    var blob = new Blob(svgURL, {type: "data:image/svg+xml;"});
+    download(URL.createObjectURL(blob), "image.svg")
 }
 
 
+```
+
+
+## Canvas Video
+### Objective
+Download a video of [QYS3's animation](https://www.pixiv.net/en/artworks/71093875)
+
+### Problem
+The video is rendered by a canvas
+
+### Solution
+- Locate the canvas element
+- Pass it to "download_canvas_frame"
+- Pass duration, fps and bitrate as well
+- 
+```js
+
+//Include function download(file, filename)
+
+function download_canvas(canvas, duration, fps, bitRate) {
+    var stream = canvas.captureStream(fps);
+    mediaRecorder = new MediaRecorder(stream, {mimeType: "video/webm; codecs=vp9", bitsPerSecond: bitRate});
+    mediaRecorder.ondataavailable = (event) => {
+        var blob = new Blob([event.data], {type: "video/webm", bitsPerSecond: bitRate});
+        download(URL.createObjectURL(blob), "canvas.webm")
+    };
+    mediaRecorder.start();
+    setTimeout(event => {mediaRecorder.stop()}, duration);
+}
 ```
 
 ## Headers
@@ -83,13 +111,16 @@ function download_svg_frame(svg) {
 
 function download(file, filename) {
     var a = document.createElement("a");
-    element.style.display = "none";
+    a.style.display = "none";
     a.download = filename;
     a.href = file;
     document.body.appendChild(a);
     a.click();
-    document.body.removeChild(element);
+    document.body.removeChild(a);
 }
 ```
+
+
+
 
 
