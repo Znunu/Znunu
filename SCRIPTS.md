@@ -13,7 +13,7 @@ img="{image}",document.getElementsByTagName("body")[0].addEventListener("mouseup
 
 ## Downloading images of the sticker store or sticker archive
 
-- Downloading images of the sticker store or sticker archive
+- Open the page with the sticker package you wish to download e.g. [this page](https://store.line.me/stickershop/product/3172/en)
 - Copy and paste the following script, then run it with enter
 ```js
 function goTo(e){element=document.createElement("a"),element.setAttribute("href",e),element.style.display="none",document.body.appendChild(element),element.click()}for(child of(urls="",children=document.getElementsByClassName("FnStickerList")[0].children,children))bgStyle=child.getElementsByClassName("FnPreview")[0].style.backgroundImage,url=/sticker\/(.*)\/android/.exec(bgStyle)[1],urls=urls+url+"_";urls=urls.slice(0,-1),console.log(urls),goTo("https://stickershop.line-scdn.net/?images="+urls);
