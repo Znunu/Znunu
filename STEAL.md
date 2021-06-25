@@ -34,25 +34,52 @@ The image is set as the CSS background of an element
 
 ## Canvas Image
 ### Objective
-Download [Pikasonic's avatar](https://soundcloud.com/pika5onic)
+Download a frame of [QYS3's animation](https://www.pixiv.net/en/artworks/71093875)
+
+
+### Problem
+The image is rendered by a canvas
+
+
+### Solution
+- Locate the svg element
+- Pass it to "download_canvas_frame"
+
+```js
+
+//Include function download(file, filename)
+
+function download_canvas_frame(canvas) {
+    download(canvas.toDataURL(), 'canvas.png')
+}
+
+```
 
 ## SVG Image
 ### Objective
-Download an image of [this car](https://lottiefiles.com/64152-car-animation)
+Download an frame of [this car](https://lottiefiles.com/64152-car-animation)
 
 ### Problem
 The image is svg embedded into the page source
 
 ### Solution
 - Locate the svg element
-- Pass it to "download_svg"
+- Pass it to "download_svg_frame"
 
 ```js
 
-function download_svg(svg) {
+//Include function download(file, filename)
+
+function download_svg_frame(svg) {
     svgURL = new XMLSerializer().serializeToString(svg);
     download('data:image/svg+xml; charset=utf8, ' + encodeURIComponent(svgURL), 'image.svg')
 }
+
+
+```
+
+## Headers
+```js
 
 function download(file, filename) {
     var a = document.createElement("a");
@@ -64,6 +91,5 @@ function download(file, filename) {
     document.body.removeChild(element);
 }
 ```
-
 
 
