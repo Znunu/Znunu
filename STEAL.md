@@ -3,6 +3,7 @@ Downloading an image from chrome is usually as simple as "Save image as..." from
 However, when this isn't the case then a few different approaches exist depending on the problem.
 
 
+# Techniques
 ## Covered Image
 ### Objective
 Download [Jas's avatar](https://discord.com/channels/290843998296342529)
@@ -149,7 +150,13 @@ function addFrameToBuffer(ctx, canvas) {
 }
 ```
 
-## Headers
+# Lottie animations
+Lottie animations usually hide in a shadow root. Fetch them like so:
+```js
+document.getElementsByTagName("lottie-player")[index].shadowRoot.querySelector("svg")
+```
+
+# Headers
 ```js
 
 function download(file, filename) {
