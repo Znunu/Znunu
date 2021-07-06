@@ -43,3 +43,5 @@
 [singlecask](https://www.pixiv.net/en/users/31699812)
 
 [kiriko](https://www.pixiv.net/en/users/14046928/)
+
+[Takamichi](https://yande.re/pool/show/1361)
