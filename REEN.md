@@ -45,8 +45,17 @@ The python module connects to a server on a loop.
 It gets tasks and sends back the results of them.
 
 ## bibos_config.py
-This is a python selve like module that controls the config.
-One of the things it contains is the adress to connect to.
+This is a python shelve like module that contains config.
+One of the things it contains is the address to connect to.
 It sets it own permission such that only root can view it.
 
+## jobmanager.py
+Gets and runs the actual jobs
 
+## register_new_bibos_client.sh
+Inital script for setting it all up. Sets up the config file and a 5 min cron job loop among other things.
+Interestingly enough https doesn't seem to be default. What if we get between the client and server for one cycle, send a task to give us root access.
+A small bleep on their end, but enough?
+
+## ???
+There are some scripts too which set chrome policy e.g. to not store passwords
