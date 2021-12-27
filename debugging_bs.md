@@ -5,7 +5,7 @@ The best way to find these bugs is to explore the HTML file interactively.
 Open the webpage in your favorite browser, then use the console and JS to locate the elements.
 The most useful commands, for this purpose, start with `document.query*` or `document.get*`
 ## Method 2
-Download the page, then locate the elements using the python REPL.
+Request the page, then locate the elements using the python REPL.
 ```python
 import httpx, bs4
 document = bs4.BeautifulSoup(httpx.get("https://example.com"))
