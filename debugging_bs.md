@@ -3,7 +3,7 @@ Problem: You've written code that searches for some specific elements, but bs do
 The best way to find these bugs is to explore the HTML file interactively.
 ## Method 1
 Open the webpage in your favorite browser, then use the console and JS to locate the elements.
-The most useful commands, for this purpose, start with `document.query*` or `document.get*`
+The most useful commands, for this purpose, start with `document.query*` or `document.get*`or `$x`
 ## Method 2
 Request the page, then locate the elements using the python REPL.
 ```python
